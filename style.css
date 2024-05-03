@@ -296,7 +296,7 @@ header .search button{
     display: flex;
     align-items: center;
     gap: 6px;
-    background-color: #fff;
+    background-color: #d6afaf6c;
     padding: 8px;
     width: 32%;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -316,14 +316,14 @@ header .search button{
 
 .content .podcasts .item .top i{
     font-size: 40px;
-    background-color: #4361ee;
+    background-color: #0fe681;
     padding: 12px;
     color: #fff;
     border-radius: 10px;
 }
 
 .content .podcasts .item:nth-child(2) .top i{
-    background-color: #f72585;
+    background-color: #c021b3;
 }
 
 .content .podcasts .item:nth-child(3) .top i{
